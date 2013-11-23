@@ -17,7 +17,7 @@
 
 from setuptools import setup, find_packages
 setup(
-    name = "overkill-extra-misc",
+    name = "overkill-misc",
     version = "0.1",
     install_requires=["overkill"],
     packages = find_packages(),
